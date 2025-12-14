@@ -52,7 +52,7 @@ The **fourth feature** (timeline of task changes relevant to a user in the last 
   - Gives managers a quick view of workload balance and risk (who is overloaded, who has many overdue tasks).
   - This is highly actionable for rebalancing work and spotting bottlenecks.
 
-- **Bonus: Timeline of task changes** (`GET /analytics/timeline`)
+- **Timeline of task changes** (`GET /analytics/timeline`)
   - Useful for individual contributors to review “what changed recently” on tasks relevant to them (as creator or assignee).
   - Helps with daily review and understanding the evolution of tasks.
 
