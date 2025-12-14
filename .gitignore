@@ -1,0 +1,37 @@
+# Python / FastAPI project ignores
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / test
+htmlcov/
+.tox/
+.pytest_cache/
+.coverage
+.coverage.*
+
+# Uvicorn reload artifacts
+*.pid
